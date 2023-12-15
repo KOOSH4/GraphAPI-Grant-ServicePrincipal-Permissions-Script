@@ -1,7 +1,4 @@
-
-# A brief description of what this project does and who it's for
-
-GraphAPI-Grant-ServicePrincipal-Permissions-Script
+# GraphAPI-Grant-ServicePrincipal-Permissions-Script
 Description:
 
 This GitHub repository contains a PowerShell script designed to grant specific permissions to the service principal associated with a Logic App. The granted permissions enable seamless access to the Microsoft Graph, enhancing the Logic App's effectiveness in interacting with the Graph API.
