@@ -1,3 +1,6 @@
+# replace Managed-Identity/service Principal Object Id
+$ObjectID = "<guid>"
+
 # Connect to Azure AD
 Connect-AzureAD
 
