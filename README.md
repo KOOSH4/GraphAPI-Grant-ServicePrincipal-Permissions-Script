@@ -1,0 +1,1 @@
+# GraphAPI-Grant-ServicePrincipal-Permissions-Script
